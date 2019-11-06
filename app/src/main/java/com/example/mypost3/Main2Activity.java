@@ -28,7 +28,6 @@ public class Main2Activity extends AppCompatActivity {
         NavigationUI.setupWithNavController(navView, navController);
 
         Intent intent = getIntent();
-        Intent intent = getIntent();
     }
 
 }
