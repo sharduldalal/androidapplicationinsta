@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Post 3</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_Home">Home</string>
+    <string name="title_Search">Search</string>
+    <string name="title_Likes">Likes</string>
+    <string name="title_Add">Add</string>
+    <string name="title_Profile">Profile</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_dashboard">Likes</string>
+</resources>
